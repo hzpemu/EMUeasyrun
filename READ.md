@@ -1,0 +1,1 @@
+This is a easyway to setting some different EMU bundling different rom runing game method ,after that you just need to click the link button the game will be run.

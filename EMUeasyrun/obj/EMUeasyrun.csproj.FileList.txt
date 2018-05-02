@@ -1,0 +1,10 @@
+bin\Release\EMUeasyrun.exe
+bin\Release\EMUeasyrun.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\EMUeasyrun.Properties.Resources.resources
+obj\Release\EMUeasyrun.csproj.GenerateResource.Cache
+obj\Release\EMUeasyrun.exe
+obj\Release\EMUeasyrun.pdb
+obj\Release\EMUeasyrun.Form1.resources
+bin\Release\EMUeasyrun.exe.config
+obj\Release\EMUeasyrun.Form2.resources
